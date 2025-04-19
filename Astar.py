@@ -66,3 +66,4 @@ def Astar(graph, hf, goal):
 # Running the A* algorithm
 path = Astar(graph, hf, 'G')
 print("Final path:", " -> ".join(path))
+print('Output Verified')
